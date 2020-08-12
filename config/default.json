@@ -1,0 +1,4 @@
+{
+	"BOT_TOKEN": "1325019166:AAESykkulWPdg6YFAgzwrIcISNEABW1E2ug",
+	"MONGO_URI": "mongodb://localhost:27017/forsage"
+}
